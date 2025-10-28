@@ -152,3 +152,5 @@ Animación y Física
     Rendimiento Optimizado: Animación fluida incluso con múltiples objetos
 
 Este proyecto demuestra un uso avanzado de Three.js para crear experiencias 3D interactivas y educativas en el navegador.
+## Demostración
+[Demo del Sistema Solar](./videoSpace/videoSpaceExperience.mp4)
