@@ -154,4 +154,4 @@ Animación y Física
 Este proyecto demuestra un uso avanzado de Three.js para crear experiencias 3D interactivas y educativas en el navegador.
 ## Demostración
 
-<video controls src="videoSpace/videoSpaceExperience.mp4" title="Title"></video>
+[Demo del Sistema Solar](./videoSpace/videoSpaceExpeence.mp4)
