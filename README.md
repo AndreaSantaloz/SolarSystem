@@ -1,8 +1,9 @@
 # SolarSystem
-🚀 Sistema Solar Interactivo con Three.js
+## 🚀 Sistema Solar Interactivo con Three.js
 
 Un simulador del sistema solar en 3D desarrollado con Three.js que incluye una nave espacial (Halcón Milenario) con múltiples vistas de cámara.
-✨ Características Principales
+
+## ✨ Características Principales
 🪐 Sistema Solar Completo
 
     Sol: Textura realista con efecto de emisión
@@ -15,7 +16,7 @@ Un simulador del sistema solar en 3D desarrollado con Three.js que incluye una n
 
     9 Satélites Naturales: Incluyendo la Luna, Fobos, Ganimedes, Ío, Titán, etc.
 
-🛸 Nave Espacial - Halcón Milenario
+## 🛸 Nave Espacial - Halcón Milenario
 
     Modelo 3D detallado del Halcón Milenario de Star Wars
 
@@ -23,7 +24,7 @@ Un simulador del sistema solar en 3D desarrollado con Three.js que incluye una n
 
     Dos modos de cámara intercambiables
 
-🎥 Sistema de Cámaras
+## 🎥 Sistema de Cámaras
 
     Cámara Externa: Vista en tercera persona con controles orbitales
 
@@ -33,7 +34,7 @@ Un simulador del sistema solar en 3D desarrollado con Three.js que incluye una n
 
     Intercambio instantáneo entre vistas
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
     Three.js - Motor de gráficos 3D
 
@@ -42,7 +43,7 @@ Un simulador del sistema solar en 3D desarrollado con Three.js que incluye una n
     GLTFLoader - Cargador de modelos 3D
 
     TextureLoader - Cargador de texturas
- 📁 Estructura del Proyecto
+ ## 📁 Estructura del Proyecto
 
  project/
 ├── src/
@@ -55,7 +56,7 @@ Un simulador del sistema solar en 3D desarrollado con Three.js que incluye una n
 │   └── ... (texturas de todos los planetas)
 └── script.js (Código principal)
 
-⚙️ Configuración y Personalización
+## ⚙️ Configuración y Personalización
 Escalas y Velocidades
 
     SOLAR_SYSTEM_SCALE: Factor de escala del sistema solar (3)
@@ -64,7 +65,7 @@ Escalas y Velocidades
 
     ORBIT_RADIUS: Radio de la órbita de la nave (150)
 
-Parámetros de Planetas
+## Parámetros de Planetas
 
 Cada planeta se configura con:
 
@@ -80,7 +81,7 @@ Cada planeta se configura con:
 
     Velocidad de rotación
 
-🎮 Controles
+## 🎮 Controles
 Botones de Interfaz
 
     GeneralButton: Cambia a vista externa del sistema solar
@@ -93,7 +94,7 @@ Controles de Cámara
 
     Vista Nave: Rotar la vista desde el cockpit
 
-🔧 Funcionalidades Técnicas
+## 🔧 Funcionalidades Técnicas
 Animación y Física
 
     Sistema de animación basado en delta time
@@ -104,7 +105,7 @@ Animación y Física
 
     Interpolación suave de movimientos
 
-Iluminación
+## Iluminación
 
     Luz ambiental para iluminación general
 
@@ -112,7 +113,7 @@ Iluminación
 
     Materiales PBR (Physically Based Rendering) para planetas
 
-Optimización
+## Optimización
 
     Tone mapping ACES Filmic para mejor rango dinámico
 
@@ -120,7 +121,7 @@ Optimización
 
     Encoding sRGB para colores precisos
 
-🚀 Cómo Usar
+## 🚀 Cómo Usar
 
     Asegúrate de tener todos los archivos de texturas y modelos en las rutas correctas
 
@@ -130,7 +131,7 @@ Optimización
 
     Interactúa con los controles de órbita en la vista externa
 
-📝 Notas de Desarrollo
+## 📝 Notas de Desarrollo
 
     El código utiliza ES6 modules
 
@@ -140,7 +141,7 @@ Optimización
 
     Sistema de datos de usuario para almacenar propiedades de objetos
 
-🌟 Características Destacadas
+## 🌟 Características Destacadas
 
     Escala Ajustable: Sistema solar escalado para mejor visualización
 
