@@ -13,7 +13,8 @@ En nuestro caso nuestro proyecto se realizo en codesanbox con lo que tendría us
 a la vez que vas poniendo código si pones los imports te pedira si lo quieres instalar y tu le debes decir que sí.
 
 ## ¿Cómo puede moverse el usuario por la aplicación del sistema solar?
-Tiene dos botones basta con pulsar uno de ellos y te lleva  a las distintas vistas.
+Tiene dos botones basta con pulsar uno de ellos y te lleva  a las distintas vistas.Una vez pulsado en la primera verá el sistema solar y la nave moviendose y usted puede rotar,trasladar y hacer zoom al sistema solar.
+En cuanto a la segunda vista usted vera moverse la nave y brevemente podra mover un poco estando dentro el zoom y poca traslación.
 
 ## Estructura del proyecto
 Carpetas iniciales src donde está la app y textures donde están todas las texturas.
@@ -602,4 +603,7 @@ init();
 4. CSS
 5. Javascript
 6. GTLF
+ 
+## Contacto
+Si quieres saber más sobre el proyecto o plantear posibles mejoras a él mi correo es andreasantaloz@gmail.com
 
