@@ -1,7 +1,7 @@
 # Sistema solar
 
 ## Autora
-1. Andrea Santana López
+ Andrea Santana López
 
 ## ¿De qué se trata la prática?
 Este proyecto se basa en un sistema solar con todos los planetas del sistema solar y satelites más icónicos del sistema solar.
