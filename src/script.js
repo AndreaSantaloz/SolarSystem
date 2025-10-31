@@ -14,7 +14,6 @@ let renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.outputEncoding = THREE.sRGBEncoding;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 renderer.toneMappingExposure = 0.8;
-let grid;
 let sun;
 let planets = [];
 let satellites = [];
@@ -54,7 +53,6 @@ let controls, controls2;
 let orbitAngle = 0;
 let isFalconMoving = true;
 let falconOrbitPosition = new THREE.Vector3(START_DISTANCE, 0, 0);
-let falconLinearPosition = new THREE.Vector3(0, 0, START_DISTANCE);
 
 buttonGeneralvision.addEventListener("click", function () {
   console.log("Camara 1 - Vista Externa");
@@ -430,3 +428,4 @@ function animation(time) {
 }
 
 init();
+
