@@ -111,7 +111,7 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
 En segundo lugar declaramos una serie de parametros explicados en la siguiente tabla.
 
 |parametro    | explicación                         |
------------------------
+|-------------|----------------------------------------|
 |textureLoader| para cargar texturas en los objetos|
 |scene        | para cargar la escena de donde estará el sistema solar y la nave|
 |ambientLight | para crear una iluminación base general y uniforme que ilumine la escena|
