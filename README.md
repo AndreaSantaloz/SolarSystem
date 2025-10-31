@@ -25,7 +25,7 @@ Dentro del SRC está como explicaremos más adelante script.js,index.html y sytl
 <img width="1853" height="203" alt="imagen" src="https://github.com/user-attachments/assets/8e13c654-d07f-43e7-8d41-6c5795c22bdb" />
 
 ## Demostración 
-|[video](./videoSpace/videoSpaceExperience.mp4)
+|[video](./videoSpace/AndreaSantanaLópez.mp4)
 
 ## Cómo se ha desarrollado
 
